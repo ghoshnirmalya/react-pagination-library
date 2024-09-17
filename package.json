@@ -38,7 +38,7 @@
     "prettier": "^2.2.1",
     "release-it": "^14.2.2",
     "typescript": "^4.3.2",
-    "vite": "^2.4.2"
+    "vite": "^3.2.11"
   },
   "exports": {
     ".": {
